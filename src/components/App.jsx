@@ -1,6 +1,6 @@
 import ProfileCard from './ProfileCard/ProfileCard';
 import user from '../json/user.json'
-import statistic from '../json/statistic.json'
+import statistic from '../json/data.json'
 import friends from '../json/friends.json'
 import transactions from '../json/transactions.json'
 import Section from './Section/Section';
